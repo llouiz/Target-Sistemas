@@ -1,4 +1,4 @@
 # Teste Desenvolvedor - Target Sistemas
 
 ## Execução dos testes
-Executar o comando `node index.js`
+Dentro da pasta, executar o comando `node index.js`
